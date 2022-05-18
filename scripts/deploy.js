@@ -13,6 +13,7 @@ async function main() {
 
 	console.log(`Contract deployed to address: ${nft.address}`);
 }
+*Users can view their wallet balance
 
 main()
 .then(() => process.exit(0))
